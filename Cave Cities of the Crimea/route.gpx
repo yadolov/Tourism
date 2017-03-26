@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<gpx xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsdhttp://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd" version="1.1" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="QMapShack 1.5.1 http://www.qlandkarte.org/" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsdhttp://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" creator="QMapShack 1.5.1 http://www.qlandkarte.org/" xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc">
  <metadata>
   <name>Пещерные города Крыма</name>
   <time>2017-03-11T18:43:29Z</time>
@@ -12,7 +12,7 @@
   <extensions>
    <ql:key>b0630082346337992b146c50b6a4e914</ql:key>
    <ql:flags>0</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -24,7 +24,7 @@
   <extensions>
    <ql:key>b9ddfe9171b58832bdec41478d8f2b98</ql:key>
    <ql:flags>0</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -35,7 +35,7 @@
   <extensions>
    <ql:key>6c0d4686c1a84e54f391587742dc9ba7</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -46,7 +46,7 @@
   <extensions>
    <ql:key>6c8ccbf3fb8b7f3a8613fda683a071bd</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -57,7 +57,7 @@
   <extensions>
    <ql:key>7fdd3b5e4d4209866d8047f8a1003416</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -69,7 +69,7 @@
   <extensions>
    <ql:key>697fabc48eb2223179f8f2da29656389</ql:key>
    <ql:flags>6</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -92,7 +92,7 @@
   <extensions>
    <ql:key>83223a41e3ecdd340a3a4c5c70e45225</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -103,7 +103,7 @@
   <extensions>
    <ql:key>41d186386d4537360b4a1f6a64d5a4d3</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -126,7 +126,7 @@
   <extensions>
    <ql:key>067da8c15abd8da033bc3acc6ecd9029</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -137,7 +137,7 @@
   <extensions>
    <ql:key>52d6c0dca55d5cebabae589b77264f93</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-317" yoff="-148" width="300"/>
+   <ql:bubble yoff="-148" width="300" xoff="-317"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -166,7 +166,7 @@
   <extensions>
    <ql:key>d17dbb97efe021ffff6247ce49734368</ql:key>
    <ql:flags>6</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -189,7 +189,7 @@
   <extensions>
    <ql:key>67ebf94c6d58b257df4bc745cc5eab9a</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -200,7 +200,7 @@
   <extensions>
    <ql:key>6442257b286771726a4b0dced87e5b93</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -211,7 +211,7 @@
   <extensions>
    <ql:key>f61b7eef2a05efd8a485b36c1b8b4600</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -222,7 +222,7 @@
   <extensions>
    <ql:key>f4113ed7effa9b8547b1add0997cf3d1</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -233,7 +233,7 @@
   <extensions>
    <ql:key>a9f0a1efc5260d2c14fa2ec6c9582456</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -244,7 +244,7 @@
   <extensions>
    <ql:key>7e596696e6858e8068e19dc240626273</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -277,7 +277,7 @@
   <extensions>
    <ql:key>1375c8f97fbc33d5427cad9b2c3c41f5</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -289,7 +289,7 @@
   <extensions>
    <ql:key>960d772bedb46c0844a3e3217ec555e4</ql:key>
    <ql:flags>0</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -300,7 +300,7 @@
   <extensions>
    <ql:key>b32e841c7c589ab02080d509790d558b</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -323,7 +323,7 @@
   <extensions>
    <ql:key>e6919a6d51eb2636ebd15638ba4428ef</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -334,7 +334,7 @@
   <extensions>
    <ql:key>d9ac837aead1c88ff32c251b614689eb</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -357,7 +357,7 @@
   <extensions>
    <ql:key>0a8428986c2f6d49bc8a5c45e3f252e2</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -368,7 +368,7 @@
   <extensions>
    <ql:key>af6328e529b7fbb18ede3e20ada631e4</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -379,7 +379,7 @@
   <extensions>
    <ql:key>60c00b24610f4f7db9dd7d5eac481097</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -391,7 +391,7 @@
   <extensions>
    <ql:key>574ea167ade5968fd0208a1a507d554e</ql:key>
    <ql:flags>6</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -414,7 +414,7 @@
   <extensions>
    <ql:key>4249cc991d4929f5a40091331d93fdc3</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -425,7 +425,7 @@
   <extensions>
    <ql:key>3fefc55d62d666fad8266e315d489864</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -448,7 +448,7 @@
   <extensions>
    <ql:key>a49b8da740ff7c2ad09da2835389e147</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -460,7 +460,52 @@
   <extensions>
    <ql:key>10176db069cd78cc6ebcd95d7177c986</ql:key>
    <ql:flags>0</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="44.59283333" lon="33.80088333">
+  <time>2017-03-26T07:46:03Z</time>
+  <name>Дворец Князя Алексея</name>
+  <sym>Default</sym>
+  <extensions>
+   <ql:key>f7dfa9bdc5000ee28dfcefde52c897fb</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="44.59635332" lon="33.80934487">
+  <time>2017-03-26T07:42:04Z</time>
+  <name>Пещера Тешкли-Бурун</name>
+  <sym>Default</sym>
+  <extensions>
+   <ql:key>423089994927f19f27eb2357d369a5f6</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2017-03-26T07:42:04Z</ql:time>
+     <ql:comment>Initial version.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/WptMove.png</ql:icon>
+     <ql:time>2017-03-26T07:42:13Z</ql:time>
+     <ql:comment>Changed position</ql:comment>
+    </ql:event>
+   </ql:history>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="44.59006667" lon="33.80086667">
+  <time>2017-03-26T07:50:13Z</time>
+  <name>Монастырь Благовещения Пресвятой Богородицы</name>
+  <sym>Default</sym>
+  <extensions>
+   <ql:key>ce91b6f9bdcebb0ca32a9707062a6843</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -471,7 +516,7 @@
   <extensions>
    <ql:key>ecc25e6df9bd5ba82c8ec2bafc6d3646</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -483,7 +528,7 @@
   <extensions>
    <ql:key>07ba5102280a96c808a15ca277a5a273</ql:key>
    <ql:flags>0</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -494,7 +539,7 @@
   <extensions>
    <ql:key>ad4b1fcea253bc2515eaffc5af080273</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -505,7 +550,7 @@
   <extensions>
    <ql:key>97de524a0c093392a098ab02c20ad457</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -516,7 +561,7 @@
   <extensions>
    <ql:key>1cf5f41dfd2f4e103d9ffd8429460492</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -528,7 +573,7 @@
   <extensions>
    <ql:key>fdc2b94d02d40969d84b74d6b7e3a428</ql:key>
    <ql:flags>6</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -561,7 +606,7 @@
   <extensions>
    <ql:key>39796d9c3b173b618425d8fcb4644e37</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -572,7 +617,7 @@
   <extensions>
    <ql:key>070718241ca4a6658801065dd17f40cf</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -595,7 +640,7 @@
   <extensions>
    <ql:key>e2e6e59502150e91f74ebc5affe20afc</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -606,7 +651,7 @@
   <extensions>
    <ql:key>82785c172f5490f5276c268d266f4fa9</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -617,7 +662,7 @@
   <extensions>
    <ql:key>ba8fa1d6e52f2f51ae5d9fe5bf924751</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -629,7 +674,7 @@
   <extensions>
    <ql:key>9dd9c41e1dfbfc1c674a91a6aba360fe</ql:key>
    <ql:flags>0</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -641,7 +686,7 @@
   <extensions>
    <ql:key>3a113c681ccbde58502af39afcbfed26</ql:key>
    <ql:flags>0</ql:flags>
-   <ql:bubble xoff="-320" yoff="-150" width="300"/>
+   <ql:bubble yoff="-150" width="300" xoff="-320"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -2843,34 +2888,328 @@
   <rtept lat="44.59430838" lon="33.79672741">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59381775" lon="33.79728531">
+  <rtept lat="44.59384367" lon="33.79729638">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59364910" lon="33.79759644">
+  <rtept lat="44.59349870" lon="33.79678140">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59335778" lon="33.79771446">
+  <rtept lat="44.59320355" lon="33.79646490">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59326579" lon="33.79816507">
+  <rtept lat="44.59291223" lon="33.79585872">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59340378" lon="33.79864787">
+  <rtept lat="44.59255192" lon="33.79539738">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59331945" lon="33.79896973">
+  <rtept lat="44.59252892" lon="33.79468928">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59346511" lon="33.79921650">
+  <rtept lat="44.59265158" lon="33.79430304">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59338845" lon="33.79964565">
+  <rtept lat="44.59265158" lon="33.79398117">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59281257" lon="33.79369150">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59293523" lon="33.79317651">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59317288" lon="33.79307995">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59343353" lon="33.79246841">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59377851" lon="33.79201780">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59407749" lon="33.79185686">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59439180" lon="33.79144917">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59446846" lon="33.79129897">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59473677" lon="33.79117022">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59505874" lon="33.79063378">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59514307" lon="33.79040847">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59555703" lon="33.78979693">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59600165" lon="33.78941069">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59650759" lon="33.78964672">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59672990" lon="33.78959308">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59722050" lon="33.78921757">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59759612" lon="33.78913174">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59855432" lon="33.78845582">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59930553" lon="33.78848801">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59980378" lon="33.78834854">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.60051665" lon="33.78842364">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.60106472" lon="33.78860066">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.60051665" lon="33.78833781">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59981145" lon="33.78826270">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59930553" lon="33.78842364">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59854665" lon="33.78839145">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59758079" lon="33.78905664">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59722050" lon="33.78914247">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59672223" lon="33.78951798">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59650759" lon="33.78956089">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59600931" lon="33.78933559">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59585600" lon="33.78949652">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59566435" lon="33.78937850">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59528105" lon="33.78934632">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59505108" lon="33.78942142">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59461411" lon="33.78983984">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59387050" lon="33.79029045">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59341820" lon="33.79070888">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59275891" lon="33.79140625">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59272824" lon="33.79210363">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59265158" lon="33.79241476">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59232959" lon="33.79371295">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59217627" lon="33.79412601">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59199706" lon="33.79471342">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59194340" lon="33.79530350">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59159841" lon="33.79643003">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59122563" lon="33.79876624">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59155529" lon="33.80026827">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59235259" lon="33.80083690">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59295535" lon="33.79984180">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59319301" lon="33.79982034">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59336166" lon="33.79961650">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59344599" lon="33.79914443">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59334633" lon="33.79895131">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59339999" lon="33.79864017">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59325434" lon="33.79820029">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59336166" lon="33.79772822">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59341533" lon="33.79797498">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59392896" lon="33.79851143">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59409761" lon="33.79854361">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59442725" lon="33.79837195">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59559248" lon="33.79721324">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59652005" lon="33.79691283">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59722530" lon="33.79689137">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59759325" lon="33.79647295">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59801485" lon="33.79618327">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59853611" lon="33.79578630">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59910336" lon="33.79534642">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59852845" lon="33.79586140">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59804552" lon="33.79624764">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59762391" lon="33.79652659">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59727895" lon="33.79694502">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59652005" lon="33.79698793">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59559248" lon="33.79728834">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59444259" lon="33.79844705">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59397495" lon="33.79915516">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59399029" lon="33.79977743">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59376030" lon="33.80039970">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59372964" lon="33.80075375">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59348432" lon="33.80138675">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59328021" lon="33.80175958">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59336454" lon="33.80259643">
    <ele>-2147483648</ele>
   </rtept>
   <rtept lat="44.59370471" lon="33.80284026">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59486417" lon="33.80487462">
+  <rtept lat="44.59432280" lon="33.80322943">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59488242" lon="33.80318652">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59532705" lon="33.80354057">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59566435" lon="33.80351911">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59581000" lon="33.80337963">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59634661" lon="33.80341182">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59682955" lon="33.80299340">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59810972" lon="33.80261789">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59843933" lon="33.80277882">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59809439" lon="33.80270372">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59685255" lon="33.80307923">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59636961" lon="33.80347619">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59584067" lon="33.80344401">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59619329" lon="33.80394826">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59576401" lon="33.80429159">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59482876" lon="33.80491386">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59460645" lon="33.80554686">
    <ele>-2147483648</ele>
   </rtept>
   <rtept lat="44.59448106" lon="33.80588616">
@@ -2879,46 +3218,112 @@
   <rtept lat="44.59442356" lon="33.80623485">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59445806" lon="33.80636359">
+  <rtept lat="44.59412732" lon="33.80671630">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59436223" lon="33.80630995">
+  <rtept lat="44.59402766" lon="33.80723129">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59405751" lon="33.80596931">
+  <rtept lat="44.59414648" lon="33.80772481">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59362820" lon="33.80528266">
+  <rtept lat="44.59446846" lon="33.80769263">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59350555" lon="33.80516464">
+  <rtept lat="44.59462178" lon="33.80807618">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59339055" lon="33.80512709">
+  <rtept lat="44.59470802" lon="33.80792598">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59274276" lon="33.80536849">
+  <rtept lat="44.59479427" lon="33.80791257">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59192629" lon="33.80498225">
+  <rtept lat="44.59492075" lon="33.80795817">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59165030" lon="33.80473013">
+  <rtept lat="44.59494758" lon="33.80801986">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59156597" lon="33.80449946">
+  <rtept lat="44.59516990" lon="33.80826662">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59148547" lon="33.80434389">
+  <rtept lat="44.59553403" lon="33.80859385">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59137814" lon="33.80422051">
+  <rtept lat="44.59581383" lon="33.80876015">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59111365" lon="33.80363042">
+  <rtept lat="44.59602656" lon="33.80895863">
    <ele>-2147483648</ele>
   </rtept>
-  <rtept lat="44.59087982" lon="33.80359823">
+  <rtept lat="44.59613293" lon="33.80911420">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59641943" lon="33.80931268">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59626516" lon="33.80939717">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59607447" lon="33.80928854">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59596907" lon="33.80924026">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59547749" lon="33.80916784">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59486709" lon="33.80879770">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59477318" lon="33.80879636">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59467640" lon="33.80874942">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59454129" lon="33.80862335">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59459112" lon="33.80841816">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59461890" lon="33.80820091">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59460645" lon="33.80805741">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59447613" lon="33.80774627">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59394717" lon="33.80777846">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59321888" lon="33.80752097">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59298123" lon="33.80731444">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59288157" lon="33.80712400">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59254617" lon="33.80698452">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59234492" lon="33.80682359">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59180828" lon="33.80644808">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59111063" lon="33.80512843">
+   <ele>-2147483648</ele>
+  </rtept>
+  <rtept lat="44.59081164" lon="33.80402336">
    <ele>-2147483648</ele>
   </rtept>
   <rtept lat="44.59069199" lon="33.80375380">

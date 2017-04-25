@@ -1,30 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<gpx xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsdhttp://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd" creator="QMapShack 1.5.1 http://www.qlandkarte.org/" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
+<gpx xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1" creator="QMapShack 1.5.1 http://www.qlandkarte.org/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsdhttp://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
  <metadata>
   <name>Пещерные города Крыма</name>
   <time>2017-03-11T18:43:29Z</time>
  </metadata>
- <wpt lat="44.95211700" lon="34.10241700">
+ <wpt lat="44.96183425" lon="34.08261229">
   <ele>0</ele>
-  <name>Симферополь</name>
+  <name>Симферополь Ж/Д вокзал</name>
   <cmt>Waypoint no: 1</cmt>
   <desc>This is waypoint no: 1</desc>
   <extensions>
    <ql:key>b0630082346337992b146c50b6a4e914</ql:key>
-   <ql:flags>0</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:flags>6</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <ql:history>
+    <ql:event>
+     <ql:icon>://icons/48x48/Start.png</ql:icon>
+     <ql:time>2017-04-23T19:01:08Z</ql:time>
+     <ql:comment>Initial version.</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/WptMove.png</ql:icon>
+     <ql:time>2017-04-25T18:51:00Z</ql:time>
+     <ql:comment>Changed position</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2017-04-25T18:51:17Z</ql:time>
+     <ql:comment>Changed name</ql:comment>
+    </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/EditText.png</ql:icon>
+     <ql:time>2017-04-25T18:51:28Z</ql:time>
+     <ql:comment>Changed name</ql:comment>
+    </ql:event>
+   </ql:history>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
- <wpt lat="44.74609100" lon="33.86156440">
-  <ele>0</ele>
-  <name>Бахчисарай</name>
-  <cmt>Waypoint no: 2</cmt>
-  <desc>This is waypoint no: 2</desc>
+ <wpt lat="44.75388333" lon="33.85925000">
+  <time>2017-04-25T19:34:04Z</time>
+  <name>Парк Крым в миниатюре</name>
+  <sym>Default</sym>
   <extensions>
-   <ql:key>b9ddfe9171b58832bdec41478d8f2b98</ql:key>
-   <ql:flags>0</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:key>6f041091e2e427a043877ebd7de58c75</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -35,7 +56,29 @@
   <extensions>
    <ql:key>6c0d4686c1a84e54f391587742dc9ba7</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="44.74320000" lon="33.88753333">
+  <time>2017-04-25T18:48:17Z</time>
+  <name>Привал</name>
+  <sym>Parking Area</sym>
+  <extensions>
+   <ql:key>8961d37ac8a8e353bb0db80ce12109db</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="44.74768333" lon="33.90790000">
+  <time>2017-04-25T19:34:47Z</time>
+  <name>Музей Ларишес</name>
+  <sym>Default</sym>
+  <extensions>
+   <ql:key>fc474f486c08a3707cc3d36cbfeab09c</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -46,7 +89,7 @@
   <extensions>
    <ql:key>6c7be0d336f22bd91ff0bc745b16d6ab</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -57,7 +100,7 @@
   <extensions>
    <ql:key>fc6ee7e6fe66ff3cc94b62e4d0c82170</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -68,7 +111,7 @@
   <extensions>
    <ql:key>8915008ecbcb842f78472aaf34c4d8bd</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -79,7 +122,7 @@
   <extensions>
    <ql:key>6503573913ae961e22394ef592d8902e</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -90,7 +133,7 @@
   <extensions>
    <ql:key>6c8ccbf3fb8b7f3a8613fda683a071bd</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -113,7 +156,7 @@
   <extensions>
    <ql:key>8f4859bf2c19b29df6356dbc72e9c1d0</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -124,7 +167,7 @@
   <extensions>
    <ql:key>7fdd3b5e4d4209866d8047f8a1003416</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -136,7 +179,7 @@
   <extensions>
    <ql:key>697fabc48eb2223179f8f2da29656389</ql:key>
    <ql:flags>6</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -159,7 +202,7 @@
   <extensions>
    <ql:key>83223a41e3ecdd340a3a4c5c70e45225</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -170,7 +213,7 @@
   <extensions>
    <ql:key>f677556a5c92d28895624ac911ce5114</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -181,7 +224,7 @@
   <extensions>
    <ql:key>aa49e6f199cbfc76741692f932b5c576</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -192,7 +235,7 @@
   <extensions>
    <ql:key>57751ecbaf129cedc5eaa329f4576b83</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -203,7 +246,7 @@
   <extensions>
    <ql:key>aef0ecf0ad0691d930bcd00d6fa6b480</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -214,7 +257,7 @@
   <extensions>
    <ql:key>8be2630c7b05331e5a58fd707fe66950</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -225,7 +268,7 @@
   <extensions>
    <ql:key>41d186386d4537360b4a1f6a64d5a4d3</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -248,7 +291,7 @@
   <extensions>
    <ql:key>067da8c15abd8da033bc3acc6ecd9029</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -260,7 +303,7 @@
   <extensions>
    <ql:key>53b1bf05d632dcaba9456783ad756397</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -283,7 +326,7 @@
   <extensions>
    <ql:key>52d6c0dca55d5cebabae589b77264f93</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-148" width="300" xoff="-317"/>
+   <ql:bubble yoff="-148" xoff="-317" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -311,7 +354,7 @@
   <extensions>
    <ql:key>6fa8ad3f7b63f199b1cfe0c24a46540c</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -322,7 +365,7 @@
   <extensions>
    <ql:key>7a53a3352cb9724430a804d629718c50</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -333,7 +376,7 @@
   <extensions>
    <ql:key>863d15b60835570155328f9e4db0a59f</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -345,7 +388,7 @@
   <extensions>
    <ql:key>d17dbb97efe021ffff6247ce49734368</ql:key>
    <ql:flags>6</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -373,7 +416,7 @@
   <extensions>
    <ql:key>6b3bb934bdb96b0c03a2944760654665</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -384,7 +427,7 @@
   <extensions>
    <ql:key>67ebf94c6d58b257df4bc745cc5eab9a</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -395,7 +438,7 @@
   <extensions>
    <ql:key>6442257b286771726a4b0dced87e5b93</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -406,7 +449,7 @@
   <extensions>
    <ql:key>15eb7eae37ed6e421465104390184305</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -417,7 +460,7 @@
   <extensions>
    <ql:key>d5a1138667e8c6a18a923b00976d3859</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -428,7 +471,7 @@
   <extensions>
    <ql:key>7c1445a98f864cca53331d92a6f905ad</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -439,7 +482,7 @@
   <extensions>
    <ql:key>b589f41e1433915f5440436efbd7b62e</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -450,7 +493,7 @@
   <extensions>
    <ql:key>299839db7a31e55f5457e15fdd78361a</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -461,7 +504,7 @@
   <extensions>
    <ql:key>34760c68301a3572b2275e09b116d743</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -472,7 +515,7 @@
   <extensions>
    <ql:key>8044c8297e8139888cb2e1294941d5f7</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -483,7 +526,7 @@
   <extensions>
    <ql:key>5308c8b2c25d3423cd936ea1662362ed</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -494,7 +537,7 @@
   <extensions>
    <ql:key>f61b7eef2a05efd8a485b36c1b8b4600</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -505,7 +548,7 @@
   <extensions>
    <ql:key>bf156c3b37af8cfc2dcc6c34bb20c735</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -516,7 +559,7 @@
   <extensions>
    <ql:key>e7c1df315ac87126cdd664966196bb5b</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -527,7 +570,7 @@
   <extensions>
    <ql:key>a9f0a1efc5260d2c14fa2ec6c9582456</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -538,7 +581,7 @@
   <extensions>
    <ql:key>89d708f3c177d9b28f36266d47458d78</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -549,7 +592,7 @@
   <extensions>
    <ql:key>f4113ed7effa9b8547b1add0997cf3d1</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -560,7 +603,7 @@
   <extensions>
    <ql:key>c640993e75d68b1fa7c616a88647822c</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -571,7 +614,7 @@
   <extensions>
    <ql:key>b50ab57832339cc88ec7503b5ca9af6c</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -582,7 +625,7 @@
   <extensions>
    <ql:key>818deebfcf766ea991ce967eb0551f52</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -605,7 +648,7 @@
   <extensions>
    <ql:key>52f43024867ee8354f8c528e5d59f0f3</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -616,7 +659,7 @@
   <extensions>
    <ql:key>414f0070266667baf93432b4d33bda1e</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -627,7 +670,7 @@
   <extensions>
    <ql:key>7e596696e6858e8068e19dc240626273</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -660,7 +703,7 @@
   <extensions>
    <ql:key>1375c8f97fbc33d5427cad9b2c3c41f5</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -671,7 +714,7 @@
   <extensions>
    <ql:key>fe7785b8f3ee426a2270935c29c5553f</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -682,7 +725,7 @@
   <extensions>
    <ql:key>d0b68529627df960d076293fae8e654c</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -693,7 +736,7 @@
   <extensions>
    <ql:key>d9b73795f1086f37f8c9bfab96e06790</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -716,7 +759,7 @@
   <extensions>
    <ql:key>5f937a360134eb5f1fa0dc09b2f86ca3</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -727,7 +770,7 @@
   <extensions>
    <ql:key>2b5840d140bbcd4c1018a5fcf7e338c7</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -739,7 +782,7 @@
   <extensions>
    <ql:key>960d772bedb46c0844a3e3217ec555e4</ql:key>
    <ql:flags>0</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -750,7 +793,7 @@
   <extensions>
    <ql:key>651156b3a8a7d7ba22fd2e27b5e99132</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -773,7 +816,7 @@
   <extensions>
    <ql:key>b32e841c7c589ab02080d509790d558b</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -796,7 +839,7 @@
   <extensions>
    <ql:key>918cc8e2e85d04b0eb0702027ccd18b1</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -807,7 +850,29 @@
   <extensions>
    <ql:key>e6919a6d51eb2636ebd15638ba4428ef</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="44.62740000" lon="33.78726667">
+  <time>2017-04-25T19:44:48Z</time>
+  <name>Ферма Чудо-Ослик</name>
+  <sym>Default</sym>
+  <extensions>
+   <ql:key>f38b89be0e572aa59097c8046267b06b</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="44.62380000" lon="33.78758333">
+  <time>2017-04-25T19:47:13Z</time>
+  <name>Магазин</name>
+  <sym>Residence</sym>
+  <extensions>
+   <ql:key>c543e3af05b72f14d15c7db026a79e4c</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -818,7 +883,7 @@
   <extensions>
    <ql:key>1060875f102ecfd742f7cbc77205aace</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -829,7 +894,7 @@
   <extensions>
    <ql:key>d9ac837aead1c88ff32c251b614689eb</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -845,6 +910,17 @@
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
+ <wpt lat="44.60746667" lon="33.79133333">
+  <time>2017-04-25T19:49:00Z</time>
+  <name>Магазин</name>
+  <sym>Residence</sym>
+  <extensions>
+   <ql:key>64fa79214d8ee7b4e9f3aca8151c5b84</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
  <wpt lat="44.61448333" lon="33.76586667">
   <time>2017-03-25T11:42:11Z</time>
   <name>Грот Чуплак-Сырт</name>
@@ -852,7 +928,7 @@
   <extensions>
    <ql:key>0a8428986c2f6d49bc8a5c45e3f252e2</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -863,7 +939,7 @@
   <extensions>
    <ql:key>e5b9004155c51cf522b0d3331f90bb39</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -874,7 +950,7 @@
   <extensions>
    <ql:key>af6328e529b7fbb18ede3e20ada631e4</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -885,7 +961,7 @@
   <extensions>
    <ql:key>dcd233ed6a9ba3903da79cc9ed599c86</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -896,7 +972,7 @@
   <extensions>
    <ql:key>cb47743fd38dc03f910566e6bf3dc76f</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -907,7 +983,7 @@
   <extensions>
    <ql:key>60c00b24610f4f7db9dd7d5eac481097</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -918,7 +994,7 @@
   <extensions>
    <ql:key>4f0210efe1e9c00d0992e8ef0f5b1370</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -930,7 +1006,7 @@
   <extensions>
    <ql:key>574ea167ade5968fd0208a1a507d554e</ql:key>
    <ql:flags>6</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -953,7 +1029,7 @@
   <extensions>
    <ql:key>4249cc991d4929f5a40091331d93fdc3</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -964,7 +1040,7 @@
   <extensions>
    <ql:key>3fefc55d62d666fad8266e315d489864</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -987,7 +1063,7 @@
   <extensions>
    <ql:key>a49b8da740ff7c2ad09da2835389e147</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -998,7 +1074,7 @@
   <extensions>
    <ql:key>53f37f5e1b4079dfa5c9170680286eec</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1009,7 +1085,7 @@
   <extensions>
    <ql:key>f7dfa9bdc5000ee28dfcefde52c897fb</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1020,7 +1096,7 @@
   <extensions>
    <ql:key>c6461e8c85a3a44bfc5023a63b56a0f0</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1032,7 +1108,7 @@
   <extensions>
    <ql:key>10176db069cd78cc6ebcd95d7177c986</ql:key>
    <ql:flags>0</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1043,7 +1119,7 @@
   <extensions>
    <ql:key>c3ea66c589064af7c2f046682ceef1e7</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1054,7 +1130,7 @@
   <extensions>
    <ql:key>423089994927f19f27eb2357d369a5f6</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -1077,7 +1153,7 @@
   <extensions>
    <ql:key>06bb7e8a30cd7afd78a424bd485d290b</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1088,7 +1164,7 @@
   <extensions>
    <ql:key>ce91b6f9bdcebb0ca32a9707062a6843</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1099,7 +1175,7 @@
   <extensions>
    <ql:key>3d23fa4a24cd6b0aab63cf37be6aa413</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1110,7 +1186,7 @@
   <extensions>
    <ql:key>8ac91cb2f4b27d94824f19324f8840a0</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1121,7 +1197,7 @@
   <extensions>
    <ql:key>10e6e753124abbf6dd3bcbfbc4256589</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1132,7 +1208,7 @@
   <extensions>
    <ql:key>14cd1b0b278b9867c1871619e0a573c9</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1143,7 +1219,7 @@
   <extensions>
    <ql:key>ecc25e6df9bd5ba82c8ec2bafc6d3646</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1154,7 +1230,7 @@
   <extensions>
    <ql:key>9b030a88041a816c577a5b2d82b16fd9</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1165,7 +1241,7 @@
   <extensions>
    <ql:key>675c67e6abd866d33405faf29cf636f1</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1176,7 +1252,7 @@
   <extensions>
    <ql:key>c683462ace70d9eb4dec54eaa4c93dbb</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1187,7 +1263,7 @@
   <extensions>
    <ql:key>e313ecd4a1af781ce974d0dbc0391979</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1198,7 +1274,7 @@
   <extensions>
    <ql:key>f64e5b83a2407777362703f8ac399d8f</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1209,7 +1285,7 @@
   <extensions>
    <ql:key>17db63c6dc50148b8821bdc3bcdfbd0b</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1220,7 +1296,7 @@
   <extensions>
    <ql:key>2f6ab2973a94bfd2c456ec5558d82cec</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -1243,7 +1319,7 @@
   <extensions>
    <ql:key>f7b9481aa380f07e6adb3ac2ff8a3b77</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1254,7 +1330,7 @@
   <extensions>
    <ql:key>d33230f0a2e3b2c4e01e326666d4fc14</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1265,7 +1341,18 @@
   <extensions>
    <ql:key>bf06752aaa949a9da8c6511eb1c9e7c3</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
+   <wptx1:WaypointExtension/>
+  </extensions>
+ </wpt>
+ <wpt lat="44.55165000" lon="33.95588333">
+  <time>2017-04-25T19:52:32Z</time>
+  <name>Магазин</name>
+  <sym>Residence</sym>
+  <extensions>
+   <ql:key>e7824eff8d7de2bfb206c20d4a30791b</ql:key>
+   <ql:flags>3</ql:flags>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1276,7 +1363,7 @@
   <extensions>
    <ql:key>ad4b1fcea253bc2515eaffc5af080273</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1287,7 +1374,7 @@
   <extensions>
    <ql:key>89590b9973c9a272bc9c93f2d1123123</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1298,7 +1385,7 @@
   <extensions>
    <ql:key>1361e82785e8948efdb04c2ad5120af7</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1309,7 +1396,7 @@
   <extensions>
    <ql:key>c1e20b189036168483ef29908de836ad</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1320,7 +1407,7 @@
   <extensions>
    <ql:key>d708e8bf50c215d0e13a99bc042bab9b</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1331,7 +1418,7 @@
   <extensions>
    <ql:key>00e03d0e4b3cafd60c834df0152040e2</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1342,7 +1429,7 @@
   <extensions>
    <ql:key>97de524a0c093392a098ab02c20ad457</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1353,7 +1440,7 @@
   <extensions>
    <ql:key>1cf5f41dfd2f4e103d9ffd8429460492</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1365,7 +1452,7 @@
   <extensions>
    <ql:key>fdc2b94d02d40969d84b74d6b7e3a428</ql:key>
    <ql:flags>6</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -1398,7 +1485,7 @@
   <extensions>
    <ql:key>2f2a3684b72cdc285f1e53d8789a5f04</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1409,7 +1496,7 @@
   <extensions>
    <ql:key>395ec24280b33fb401bc7a004f345189</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1420,7 +1507,7 @@
   <extensions>
    <ql:key>efaa2710029403e80b126e390c4ed684</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1431,7 +1518,7 @@
   <extensions>
    <ql:key>39796d9c3b173b618425d8fcb4644e37</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1442,7 +1529,7 @@
   <extensions>
    <ql:key>a03ff1a09b77ecac2b8c359983e812ff</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1453,7 +1540,7 @@
   <extensions>
    <ql:key>0fef4e52ace6bc05eadf1f5db7808fea</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1464,7 +1551,7 @@
   <extensions>
    <ql:key>070718241ca4a6658801065dd17f40cf</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <ql:history>
     <ql:event>
      <ql:icon>://icons/48x48/Start.png</ql:icon>
@@ -1487,7 +1574,7 @@
   <extensions>
    <ql:key>4c74bf532f522e32119c9cb9de58f9b9</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1498,7 +1585,7 @@
   <extensions>
    <ql:key>ae0be75b748f390ba59b33d8ef4d2507</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1509,7 +1596,7 @@
   <extensions>
    <ql:key>e2e6e59502150e91f74ebc5affe20afc</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1520,7 +1607,7 @@
   <extensions>
    <ql:key>3ae78ebf4ee2d3c8c2500bd7dfb97bbe</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1531,7 +1618,7 @@
   <extensions>
    <ql:key>82785c172f5490f5276c268d266f4fa9</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1542,7 +1629,7 @@
   <extensions>
    <ql:key>ba8fa1d6e52f2f51ae5d9fe5bf924751</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1553,7 +1640,7 @@
   <extensions>
    <ql:key>4f91c4caf294ee4ca490e3e7462fe884</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1564,7 +1651,7 @@
   <extensions>
    <ql:key>dbadfd7a2a185236706d9ff962851685</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1575,7 +1662,7 @@
   <extensions>
    <ql:key>553fc5eb339ec9ea8dc72b3aa906557d</ql:key>
    <ql:flags>3</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1587,7 +1674,7 @@
   <extensions>
    <ql:key>9dd9c41e1dfbfc1c674a91a6aba360fe</ql:key>
    <ql:flags>0</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
@@ -1599,10 +1686,88 @@
   <extensions>
    <ql:key>3a113c681ccbde58502af39afcbfed26</ql:key>
    <ql:flags>0</ql:flags>
-   <ql:bubble yoff="-150" width="300" xoff="-320"/>
+   <ql:bubble yoff="-150" xoff="-320" width="300"/>
    <wptx1:WaypointExtension/>
   </extensions>
  </wpt>
+ <trk>
+  <name>До Привала</name>
+  <extensions>
+   <ql:key>d7a60b0bd8403a8e6dc0b6880aa459c3</ql:key>
+   <ql:flags>3</ql:flags>
+   <gpxx:TrackExtension>
+    <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+   </gpxx:TrackExtension>
+  </extensions>
+  <trkseg>
+   <trkpt lat="44.74911969" lon="33.88386060">
+    <ele>-2147483648</ele>
+    <extensions>
+     <ql:flags>0</ql:flags>
+    </extensions>
+   </trkpt>
+   <trkpt lat="44.74895913" lon="33.88382842">
+    <ele>-2147483648</ele>
+    <extensions>
+     <ql:flags>0</ql:flags>
+    </extensions>
+   </trkpt>
+   <trkpt lat="44.74876035" lon="33.88360847">
+    <ele>-2147483648</ele>
+    <extensions>
+     <ql:flags>0</ql:flags>
+    </extensions>
+   </trkpt>
+   <trkpt lat="44.74859215" lon="33.88358165">
+    <ele>-2147483648</ele>
+    <extensions>
+     <ql:flags>0</ql:flags>
+    </extensions>
+   </trkpt>
+   <trkpt lat="44.74838572" lon="33.88375331">
+    <ele>-2147483648</ele>
+    <extensions>
+     <ql:flags>0</ql:flags>
+    </extensions>
+   </trkpt>
+   <trkpt lat="44.74671131" lon="33.88354410">
+    <ele>-2147483648</ele>
+    <extensions>
+     <ql:flags>0</ql:flags>
+    </extensions>
+   </trkpt>
+   <trkpt lat="44.74672660" lon="33.88467063">
+    <ele>-2147483648</ele>
+    <extensions>
+     <ql:flags>0</ql:flags>
+    </extensions>
+   </trkpt>
+   <trkpt lat="44.74663485" lon="33.88577570">
+    <ele>-2147483648</ele>
+    <extensions>
+     <ql:flags>0</ql:flags>
+    </extensions>
+   </trkpt>
+   <trkpt lat="44.74629844" lon="33.88594736">
+    <ele>-2147483648</ele>
+    <extensions>
+     <ql:flags>0</ql:flags>
+    </extensions>
+   </trkpt>
+   <trkpt lat="44.74385171" lon="33.88758887">
+    <ele>-2147483648</ele>
+    <extensions>
+     <ql:flags>0</ql:flags>
+    </extensions>
+   </trkpt>
+   <trkpt lat="44.74342735" lon="33.88753523">
+    <ele>-2147483648</ele>
+    <extensions>
+     <ql:flags>0</ql:flags>
+    </extensions>
+   </trkpt>
+  </trkseg>
+ </trk>
  <trk>
   <name>Маршрут</name>
   <extensions>
@@ -1699,6 +1864,11 @@
      <ql:time>2017-04-24T19:11:06Z</ql:time>
      <ql:comment>Changed trackpoints, sacrificed all previous data.</ql:comment>
     </ql:event>
+    <ql:event>
+     <ql:icon>://icons/48x48/LineMove.png</ql:icon>
+     <ql:time>2017-04-25T19:36:04Z</ql:time>
+     <ql:comment>Changed trackpoints, sacrificed all previous data.</ql:comment>
+    </ql:event>
    </ql:history>
    <gpxx:TrackExtension>
     <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
@@ -1711,7 +1881,7 @@
      <ql:flags>0</ql:flags>
     </extensions>
    </trkpt>
-   <trkpt lat="44.75474931" lon="33.85217011">
+   <trkpt lat="44.75498418" lon="33.85212605">
     <ele>-2147483648</ele>
     <extensions>
      <ql:flags>0</ql:flags>
